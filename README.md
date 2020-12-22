@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello World! 
 
-<!--
-**tmathews/tmathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Thomas 😁,
 
-Here are some ideas to get you started:
+I like tech, music, & video games. I mainly program in Go and I love checking out other technologies such as UE4, Blender, Zig, etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some things you should know about me:
+
+ - I like to create and use my own libraries (I do not enjoy being locked into existing frameworks).
+ - I think JavaScript is very cool but ruined by lack of type definitions & the web ecosystem. I will not touch Node with a 10 foot pole.
+ - It's my opinion that the HTTP is stoopid and has done more harm to app development than good.
+ - I'd love to make a video game! 🎮
+ - I'm open to any career opportunities that involve building better technologies for the progression of human kind!
+ - I'm currently working on "leet" productivity tools.
+ - I'm a big fan of Linux, Windows, and iOS.
+ - My daily driver is a Lenovo P53 Thinkpad running Windows 10 with Debian WSL with an iPhone 11 on the side!
+ - I'm big believer of simplicity.
+
+You can reach me at my email in the sidebar!
